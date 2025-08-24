@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "event_sourcing": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7221",
+      "launchBrowser": false
+    }
+  }
+}
